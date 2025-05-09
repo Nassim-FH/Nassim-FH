@@ -39,13 +39,11 @@ Passionate about building innovative solutions and creating high-quality softwar
 
 ## 📫 How to reach me
 - [LinkedIn](https://linkedin.com/in/nassim-fekih-hassen)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:nassimfekihhassen7@gmail.com)
 
 ## 😄 Pronouns
 - He/Him
 
-## ⚡ Fun fact
-- I can solve a Rubik's cube in under two minutes!
 
 ---
 
