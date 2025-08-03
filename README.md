@@ -76,13 +76,7 @@ I'm a passionate developer blending **beautiful design**, **robust backend logic
 
 ---
 
-### 🏆 Recent Highlights
 
-- 🎓 Completed Final Year Project: *NT Cinema – AI Movie Discovery Platform*
-- 🔧 Contributed to multiple backend tools using FastAPI + MongoDB
-- 💡 Building a personal AI finance assistant from scratch
-
----
 
 <p align="center">
   <i>Let’s build something amazing — apps that solve real problems and delight users.</i>
