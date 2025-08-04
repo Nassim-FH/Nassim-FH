@@ -60,7 +60,7 @@ I'm a passionate developer blending **beautiful design**, **robust backend logic
 
 ## 📫 Connect With Me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/nassim-fekih-hassen)
+- 🌐 [LinkedIn](https://linkedin.com/in/nassim-FH)
 - 📧 [Email](mailto:nassimfekihhassen7@gmail.com)
 - 🧑‍💻 [My GitHub Projects](https://github.com/Nassim-FH)
 
