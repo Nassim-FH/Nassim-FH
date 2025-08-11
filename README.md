@@ -25,15 +25,6 @@ Innovative developer with a passion for blending elegant design, robust backend 
 - **Tools:** Postman, VS Code, GitHub Actions
 
 
-
-## 🚀 Featured Projects
-
-- 📱 **Smart Expense Tracker App** — Flutter, Firebase, AI
-- 🎬 **Movie Recommendation Platform** — Python, KNN, MongoDB, Flutter
-- 🤖 **AI-Powered Chat Assistant** — LangChain, FastAPI
-
-
-
 ## 📚 Currently Leveling Up
 
 - Backend engineering with **FastAPI** & **Docker**
