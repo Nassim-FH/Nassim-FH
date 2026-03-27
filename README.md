@@ -87,7 +87,7 @@
   <img src="https://streak-stats.demolab.com?user=Nassim-FH&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nassim-FH&layout=compact&theme=radical&cache_seconds=1800&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-gold-ten-70.vercel.app/api/top-langs/?username=Nassim-FH&layout=compact&theme=radical&cache_seconds=1800&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
