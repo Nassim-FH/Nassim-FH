@@ -36,8 +36,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nassim-FH&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nassim-FH&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+</p>>
 
 ---
 
@@ -88,13 +88,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nassim-FH&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nassim-FH&show_icons=true&theme=radical&cache_seconds=1800" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Nassim-FH&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Nassim-FH&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nassim-FH&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nassim-FH&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
