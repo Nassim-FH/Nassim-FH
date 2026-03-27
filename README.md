@@ -36,7 +36,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nassim-FH&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nassim-FH&theme=onedark" />
 </p>>
 
 ---
