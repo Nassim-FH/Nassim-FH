@@ -53,8 +53,8 @@ Innovative developer with a passion for blending elegant design, robust backend 
 
 ## 📫 Connect With Me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/nassim-fekih-hassen)
-- 📧 [Email](mailto:nassimfekihhassen7@gmail.com)
+- 🌐 [LinkedIn](https://github.com/Nassim-FH)
+- 📧 [Email](mailto:nassim.fekihhassen.dev@gmail.com)
 - 🧑‍💻 [GitHub Portfolio](https://github.com/Nassim-FH)
 
 
