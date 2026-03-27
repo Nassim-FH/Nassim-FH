@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nassim%20Fekih%20Hassen&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Flutter%20Engineer%20|%20AI%20Systems&descAlignY=60&descAlign=50"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nassim Fekih Hassen</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Flutter+Engineer;AI+Systems+Developer;Building+Real+World+Systems" />
