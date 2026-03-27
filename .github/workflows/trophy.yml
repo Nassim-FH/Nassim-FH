@@ -16,7 +16,6 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: Nassim-FH
-          filename: profile-trophy.svg
 
       - name: Commit and push
         run: |
