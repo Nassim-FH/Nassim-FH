@@ -1,40 +1,53 @@
-# 👋 Hi, I'm Nassim Fekih Hassen
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nassim%20Fekih%20Hassen&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Flutter%20Engineer%20|%20AI%20Systems&descAlignY=60&descAlign=50"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Nassim Fekih Hassen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Flutter+Engineer;AI+Systems+Developer;Building+Real+World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Flutter+Engineer;AI+Systems+Developer;Building+Real+World+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 📊 Profile Stats
 
-💡 Software Engineering Master's student passionate about building **real-world scalable systems**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nassim-FH&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Nassim-FH?style=social" />
+  <img src="https://img.shields.io/github/stars/Nassim-FH?style=social" />
+</p>
 
-⚡ I develop **full-stack applications** across:
-- 🌐 Web (React, Node.js)
-- 📱 Mobile (Flutter)
-- 🤖 AI Systems (Python, ML)
-- 📡 IoT & Real-Time Systems
+---
+
+## 🧠 About Me
+
+💡 Software Engineering Master's student passionate about building **scalable systems**
+
+🚀 I develop:
+- 🌐 Full-Stack Web Applications  
+- 📱 Flutter Mobile Apps  
+- 🤖 AI Systems  
+- 📡 IoT & Real-Time Systems  
 
 🔥 I don’t just build apps — I build **complete systems from scratch**
 
 ---
 
-## 🧠 Core Expertise
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,python,postgres,mongodb,docker,git,linux" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nassim-FH&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🏆 Highlight Project
+## 🏭 Highlight Project
 
-### 🏭 SOLERP (Enterprise ERP System)
-> ⚠️ Private / Not yet published
+### SOLERP — Enterprise ERP System (Private)
 
-- 🧩 29+ modules (HR, Finance, CRM, Inventory...)
-- 🤖 AI analytics & prediction models
+- 🧩 29+ modules (HR, Finance, CRM, Inventory, etc.)
+- 🤖 AI-powered analytics & predictions
 - 📡 IoT real-time monitoring (MQTT)
 - 👤 Face Recognition system
 - 📱 Flutter mobile app
@@ -46,73 +59,58 @@
 
 ## 📂 Featured Projects
 
-### 📱 Mobile & Flutter
-- 📦 E-commerce App (Flutter + Firebase)
-- 🧠 AI Assistant Mobile App
-- 📊 Expense Tracker App
+### 📱 Mobile
+- E-commerce App (Flutter + Firebase)
+- AI Assistant Mobile App
+- Expense Tracker App
 
-### 🌐 Web & Full-Stack
-- 🏥 Smart Medical Appointment System
-- 📦 Inventory Management System
-- 🛒 Digital E-commerce Platform
-- 📚 Library Management System
+### 🌐 Web
+- Smart Medical Appointment System
+- Inventory Management System
+- Digital E-commerce Platform
+- Library Management System
 
-### 🤖 AI & Machine Learning
-- 📈 Cryptocurrency Price Prediction System
-- 🧠 AI Object Recognition System
-- 💬 Sentiment Analysis App
-- 📊 Smart Financial Advisor
-
----
-
-## ⚙️ Tech Stack
-
-**Languages:** Python, JavaScript, TypeScript, Dart  
-**Frontend:** React.js, Tailwind, Material UI  
-**Mobile:** Flutter  
-**Backend:** Node.js, Express, FastAPI  
-**AI/ML:** TensorFlow, scikit-learn, OpenAI API  
-**Databases:** PostgreSQL, MongoDB, Firebase  
-**DevOps:** Docker, Git, Linux  
+### 🤖 AI
+- Cryptocurrency Price Prediction System
+- AI Object Recognition System
+- Sentiment Analysis App
+- Smart Financial Advisor
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nassim-FH&show_icons=true&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,python,postgres,mongodb,docker,git,linux,fastapi,tensorflow" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nassim-FH&show_icons=true&theme=radical&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nassim-FH&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Nassim-FH&theme=radical" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nassim-FH&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nassim-FH&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nassim-FH&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Dev Quote
+## ⚡ Fun Dev Info
 
-<p align="center">
-  <i>"I build systems, not just applications."</i>
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/nassim-fh  
-- 📧 Email: nassim.fekihhassen.dev@gmail.com  
-- 🧑‍💻 GitHub: https://github.com/Nassim-FH  
-
----
-
-<p align="center">
-  🚀 Always building. Always learning.
-</p>
+```javascript
+const nassim = {
+  code: ["JavaScript", "Python", "Dart", "TypeScript"],
+  technologies: ["React", "Flutter", "Node.js", "AI", "IoT"],
+  focus: "Building scalable systems (ERP, AI, Real-Time Apps)",
+};
