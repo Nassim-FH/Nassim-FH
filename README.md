@@ -43,13 +43,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 Certifications</h2>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=Nassim-FH&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://raw.githubusercontent.com/Nassim-FH/Nassim-FH/main/badges.png" width="100%" />
 </p>
----
-
 ## 🏭 Highlight Project
 
 <table align="center">
