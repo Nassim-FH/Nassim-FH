@@ -50,6 +50,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nassim-FH/Nassim-FH/main/badges.png" width="100%" />
 </p>
+
+---
+
 ## 🏭 Highlight Project
 
 <table align="center">
