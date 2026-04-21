@@ -53,7 +53,7 @@
 
 ---
 
-## 🏭 Highlight Project
+##  Highlight Project
 
 <table align="center">
   <tr>
