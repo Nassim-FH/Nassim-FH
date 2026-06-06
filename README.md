@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 💡 Software Engineering Master's student passionate about building **scalable systems**.  
 🔥 I don’t just build apps — I build **complete systems from scratch**.
@@ -74,7 +74,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | 📱 Mobile | 🌐 Web | 🤖 AI |
 | :--- | :--- | :--- |
@@ -82,7 +82,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-gold-ten-70.vercel.app/api?username=Nassim-FH&show_icons=true&theme=radical" />
@@ -94,7 +94,7 @@
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nassim-FH&theme=radical&hide_border=true&bg_color=0f2027" alt="Activity Graph" />
@@ -102,7 +102,7 @@
 
 ---
 
-## ⚡ Fun Dev Info
+##  Fun Dev Info
 
 ```javascript
 const nassim = {
